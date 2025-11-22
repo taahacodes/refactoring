@@ -1,4 +1,6 @@
-759a561 (HEAD -> main) `Task 2.1`
+b511905 (HEAD -> main) `Task 2.2`
+7bd8922 `Task 2.1`
+759a561 `Task 2.1`
 5eb2ff0 'Task 1.2'
 be6c23a 'Task 1.1'
 e8b0bbf 'Task 1.1'
